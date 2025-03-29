@@ -83,8 +83,8 @@ A comprehensive **AI-driven platform** designed to revolutionize financial risk 
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/financial-risk-mitigation.git  
-   cd financial-risk-mitigation  
+   git clone https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/.git  
+   cd FinanciFinancial-Risk-Analytics-Systems 
 
 2. Install dependencies:
    pip install -r requirements.txt  
