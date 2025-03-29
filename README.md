@@ -20,8 +20,7 @@ A comprehensive **AI-driven platform** designed to revolutionize financial risk 
 ### ⚠️ Risk Analysis Dashboard  
 ![Risk Analysis Dashboard](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-44-11.png)  
 
-### 🏦 Credit Risk Model  
-![Credit Risk Model](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-44-45.png) 
+
 
 ## 🚀 Features  
 
