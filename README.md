@@ -20,6 +20,12 @@ A comprehensive **AI-driven platform** designed to revolutionize financial risk 
 ### ⚠️ Risk Analysis Dashboard  
 ![Risk Analysis Dashboard](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-44-11.png)  
 
+### ⚠️ Pdf Analysis 
+![Pdf Analysis](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-46-36.png)  
+
+### ⚠️ Chat App
+![Chat App](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-46-58.png)  
+
 
 
 ## 🚀 Features  
