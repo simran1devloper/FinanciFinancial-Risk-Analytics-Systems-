@@ -3,6 +3,25 @@
 A comprehensive **AI-driven platform** designed to revolutionize financial risk assessment and mitigation. With 12 advanced AI models, this platform evaluates **operational, market, and credit risks**, providing actionable insights to minimize exposure and ensure better decision-making. Leveraging cutting-edge **Generative AI**, **LangChain**, and robust ML frameworks, it delivers precise, real-time risk evaluations tailored for modern financial institutions.
 
 ---
+## 📸 UI Screenshots  
+
+### 📊 Trade Predictor  
+![Bank website ](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-42-35.png)  
+
+![Trade Predictor](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-43-11.png)  
+
+
+### 📉 Value at Risk Model  
+![Value at Risk Model](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-43-50.png)  
+
+### 🔍 Client at Risk Finder  
+![Client at Risk Finder](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-44-02.png)  
+
+### ⚠️ Risk Analysis Dashboard  
+![Risk Analysis Dashboard](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-44-11.png)  
+
+### 🏦 Credit Risk Model  
+![Credit Risk Model](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-/blob/main/Screenshot%20From%202025-03-29%2017-44-45.png) 
 
 ## 🚀 Features  
 
@@ -35,6 +54,7 @@ A comprehensive **AI-driven platform** designed to revolutionize financial risk 
 | **Generative AI**      | Advanced AI for financial insights          |  
 
 ---
+
 
 ## 🏗 Architecture  
 
